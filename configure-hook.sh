@@ -1,0 +1,1 @@
+aws cloudformation set-type-configuration --region ap-southeast-1 --configuration '{"CloudFormationConfiguration":{"HookConfiguration":{"TargetStacks":"ALL","FailureMode":"FAIL","Properties":{}}}}' --type-arn arn:aws:cloudformation:ap-southeast-1:706041656585:type/hook/MyCompany-Testing-MyTestHook
