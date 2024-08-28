@@ -1,0 +1,1 @@
+# compliant_cfn_hooks
